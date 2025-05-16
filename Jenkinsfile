@@ -37,4 +37,4 @@ pipeline {
                 // bat 'ansible-playbook deploy-production.yml'
             }
         }
-}}
+}
